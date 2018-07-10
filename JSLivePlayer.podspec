@@ -94,7 +94,7 @@ Pod::Spec.new do |s|
   s.source_files  = "JSLivePlayer", "*.{h,m,a}"
   s.exclude_files = "Classes/Exclude"
 
-  s.public_header_files = "JSLivePlayer/**/*.h"
+  s.public_header_files = "LiveVideoPlayer.h"
 
 
   # ――― Resources ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
